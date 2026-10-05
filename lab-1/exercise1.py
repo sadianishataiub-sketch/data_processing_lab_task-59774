@@ -11,6 +11,7 @@ for i in range(1, 6):
 total_marks = sum(marks)
 average_mark = total_marks / len(marks)
 highest_mark = max(marks)
+lowest_mark = min(marks)
 
 # passed courses
 passed_courses = 0
